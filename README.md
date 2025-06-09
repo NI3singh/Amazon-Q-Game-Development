@@ -4,7 +4,7 @@
 
 A brain-training game that challenges both your cognitive abilities and reflexes simultaneously.
 
-![Neural Juggler Game](https://github.com/yourusername/neural-juggler/raw/main/screenshots/gameplay.png)
+![Neural Juggler Game](./images/Screenshot.png)
 
 ## Game Description
 
