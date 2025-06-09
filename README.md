@@ -34,7 +34,7 @@ all three balls and the show ends!
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/neural-juggler.git
+git clone [Link: ](https://github.com/NI3singh/Amazon-Q-Game-Development.git)
 
 
 2. Install the required dependencies:
