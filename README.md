@@ -4,7 +4,7 @@
 
 A brain-training game that challenges both your cognitive abilities and reflexes simultaneously.
 
-(./images/Screenshot.png)
+![Neural Challenger](./preview_image/Screenshot.png)
 
 ## Game Description
 
